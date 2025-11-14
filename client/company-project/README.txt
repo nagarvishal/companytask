@@ -1,5 +1,7 @@
 /** for run this product you neet run below command
 
+* npm install
+
 * npm run dev
 
 then open the http://localhost:3550 in you browser.
